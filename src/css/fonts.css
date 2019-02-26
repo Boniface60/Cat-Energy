@@ -1,0 +1,9 @@
+@font-face {
+font-family: 'fonta27c5975a1a88dcd17c7c606902044d9';
+    
+    src:    url('https://nomail.com.ua/files/eot/a27c5975a1a88dcd17c7c606902044d9.eot?#iefix') format('embedded-opentype'),
+            url('https://nomail.com.ua/files/woff/a27c5975a1a88dcd17c7c606902044d9.woff') format('woff'),
+            url('https://nomail.com.ua/files/woff2/a27c5975a1a88dcd17c7c606902044d9.woff2') format('woff2');
+}
+
+@font-face { font-family: 'ArialMT';  src: local('ArialMT'), url('https://nomail.com.ua/files/woff/a27c5975a1a88dcd17c7c606902044d9.woff') format('woff'); }
